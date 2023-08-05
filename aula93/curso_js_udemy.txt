@@ -1,0 +1,12 @@
+continuar:
+----------
+117. correção core-js
+
+
+git:
+https://github.com/JackSparrowDev/udemy-js.git
+
+pacotes instaladas
+npm i --save-dev @babel/preset-env @babel/core @babel/cli babel-loader webpack webpack-cli regenerator-runtime core-js@2
+
+
